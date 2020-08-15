@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Native",
-    "slug": "Native",
+    "name": "nativeproject",
+    "slug": "nativeproject",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,6 +21,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "I am building my first native project.\n(kind of todo list)"
   }
 }
